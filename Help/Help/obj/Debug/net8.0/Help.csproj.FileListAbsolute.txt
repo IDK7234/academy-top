@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\learn-c-sharp\Help\Help\bin\Debug\net8.0\Help.exe
+C:\Users\User\source\repos\learn-c-sharp\Help\Help\bin\Debug\net8.0\Help.deps.json
+C:\Users\User\source\repos\learn-c-sharp\Help\Help\bin\Debug\net8.0\Help.runtimeconfig.json
+C:\Users\User\source\repos\learn-c-sharp\Help\Help\bin\Debug\net8.0\Help.dll
+C:\Users\User\source\repos\learn-c-sharp\Help\Help\bin\Debug\net8.0\Help.pdb
+C:\Users\User\source\repos\learn-c-sharp\Help\Help\obj\Debug\net8.0\Help.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\learn-c-sharp\Help\Help\obj\Debug\net8.0\Help.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\learn-c-sharp\Help\Help\obj\Debug\net8.0\Help.AssemblyInfo.cs
+C:\Users\User\source\repos\learn-c-sharp\Help\Help\obj\Debug\net8.0\Help.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\learn-c-sharp\Help\Help\obj\Debug\net8.0\Help.sourcelink.json
+C:\Users\User\source\repos\learn-c-sharp\Help\Help\obj\Debug\net8.0\Help.dll
+C:\Users\User\source\repos\learn-c-sharp\Help\Help\obj\Debug\net8.0\refint\Help.dll
+C:\Users\User\source\repos\learn-c-sharp\Help\Help\obj\Debug\net8.0\Help.pdb
+C:\Users\User\source\repos\learn-c-sharp\Help\Help\obj\Debug\net8.0\Help.genruntimeconfig.cache
+C:\Users\User\source\repos\learn-c-sharp\Help\Help\obj\Debug\net8.0\ref\Help.dll
